@@ -103,4 +103,4 @@ if __name__ == "__main__":
         q.dequeue()
         q.traverse()
 
-q.stack_info()
+    q.stack_info()
